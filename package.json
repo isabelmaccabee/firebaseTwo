@@ -1,5 +1,5 @@
 {
-  "name": "RNFirebaseStarter",
+  "name": "firebaseTwo",
   "version": "5.1.0",
   "private": true,
   "devDependencies": {
@@ -22,6 +22,8 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "expo": "^32.0.0",
+    "expo-cli": "^2.6.14",
     "react": "16.6.3",
     "react-native": "0.58.0-rc.2",
     "react-native-firebase": "^5.2.0"
